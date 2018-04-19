@@ -19,7 +19,7 @@ Node 기반의 Front-end 개발 프레임워크이다. HTML element node와 Java
 ### 사용 가이드
 Jnode Framework의 자세한 사용법은 아래의 Jnode Framework 공식 사이트를 참조하기 바란다.
 
-[http://jnodeframework.com](http://jnodeframework.com/)
+[https://ko.jnodeframework.com](https://ko.jnodeframework.com/)
 
 ### 지원 환경
 Jnode Framework는 HTML5를 지원하는 Web Application을 개발하기 위한 Front-end 개발 프레임워크이므로, HTML5를 지원하는 Client Web Browser (Safari, Chrome, Opera, Firefox, Edge, Internet Explorer 9 이상)에서 실행되는 애플리케이션 개발을 지원한다. Front-end 개발 Framework이지만, Back-end 개발 환경으로 가장 많이 사용하는 JEE와 PHP를 위해 추가 모듈을 제공한다. 이를 통해 Front-end의 템플릿 파일들을 Back-end에서 관리하고, Back-end의 Data를 Front-end로 바인딩할 수 있는 기능을 제공한다. 단, JEE Servlet 3.0 이상, PHP 7.0 이상을 공식으로 지원한다. 그 이하의 환경에서 사용하고자 한다면 직접 구현(implement)하도록 소스까지 제공하고 있다.
