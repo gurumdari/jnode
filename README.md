@@ -32,4 +32,4 @@ Jnode Framework is a free software. If you use this framework, and take some ben
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6YYMTECUZXM9S)
 
 ### Read in anther language
-[Korean (한국어)](https://github.com/gurumdari/jnode)
+[Korean (한국어)](https://github.com/gurumdari/jnode/blob/master/README_ko.md)
