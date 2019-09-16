@@ -11,46 +11,17 @@ Jnode Framework
 
 ### Transcompile
 
-<table align="center">
-	<tbody>
-		<tr>
-			<td style="border: none;"><img src="images/transpile.png?raw=true" width="86" /></td>
-			<td style="border: none;">less에서 css로, coffeescript 또는 typescript에서 javascript로 Transcompile</td>
-		</tr>
-		<tr>
-			<td style="border: none;"><img src="images/es5.png?raw=true" width="86" /></td>
-			<td style="border: none;">차세대 javascript에서 현재 사용중인 javascript로 Transcompile</td>
-		</tr>
-		<tr>
-			<td style="border: none;"><img src="images/minify.png?raw=true" width="86" /></td>
-			<td style="border: none;">css와 javascript의 source를 최소화</td>
-		</tr>
-	</tbody>
-</table>
+| <img src="images/transpile.png?raw=true" width="86" /> | less에서 css로, coffeescript 또는 typescript에서 javascript로 Transcompile |
+| <img src="images/es5.png?raw=true" width="86" /> | 차세대 javascript에서 현재 사용중인 javascript로 Transcompile |
+| <img src="images/minify.png?raw=true" width="86" /> | css와 javascript의 source를 최소화 |
 
 ### 다양한 Controller 제공
 
-<table style="width: 100%; min-height: 120px; border: 10px rgba(219,104,35,0.5) solid; border-collapse: separate; border-radius: 10px; border-spacing: 0;">
-	<tbody>
-		<tr>
-			<td style="border: none; background: url(images/joycon.png) no-repeat center;
-    background-size: 100px 200px; width: 100px; opacity: 0.5; padding: 0;"></td>
-			<td style="border: none;">contentframe, dataframe, datasheet, editor, grid, loading, monav, popup, prompt, slider, tree, win, winup</td>
-		</tr>
-	</tbody>
-</table>
+contentframe, dataframe, datasheet, editor, grid, loading, monav, popup, prompt, slider, tree, win, winup
 
 ### Utility module 제공
 
-<table style="width: 100%; min-height: 120px; border: 10px rgba(219,104,35,0.5) solid; border-collapse: separate; border-radius: 10px; border-spacing: 0;">
-	<tbody>
-		<tr>
-			<td style="border: none; background: url(images/tools.png) no-repeat center;
-    background-size: 100px 200px; width: 100px; opacity: 0.5; padding: 0;"></td>
-			<td style="border: none;">base64, date, htmlcode, matrix, tap, unicode, utf8</td>
-		</tr>
-	</tbody>
-</table>
+base64, date, htmlcode, matrix, tap, unicode, utf8
 
 ### Theme 지원 (eye-protect, light, dark)
 
