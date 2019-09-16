@@ -11,9 +11,22 @@ Jnode Framework
 
 ### Transcompile
 
-| <img src="images/transpile.png?raw=true" width="86" /> | less에서 css로, coffeescript 또는 typescript에서 javascript로 Transcompile |
-| <img src="images/es5.png?raw=true" width="86" /> | 차세대 javascript에서 현재 사용중인 javascript로 Transcompile |
-| <img src="images/minify.png?raw=true" width="86" /> | css와 javascript의 source를 최소화 |
+<table>
+	<tbody>
+		<tr>
+			<td><img src="images/transpile.png?raw=true" width="86" /></td>
+			<td>less에서 css로, coffeescript 또는 typescript에서 javascript로 Transcompile</td>
+		</tr>
+		<tr>
+			<td><img src="images/es5.png?raw=true" width="86" /></td>
+			<td>차세대 javascript에서 현재 사용중인 javascript로 Transcompile</td>
+		</tr>
+		<tr>
+			<td><img src="images/minify.png?raw=true" width="86" /></td>
+			<td>css와 javascript의 source를 최소화</td>
+		</tr>
+	</tbody>
+</table>
 
 ### 다양한 Controller 제공
 
