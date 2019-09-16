@@ -11,9 +11,9 @@ Jnode Framework
 
 ### Transcompile
 
-| <img src="images/transpile.png?raw=true" width="86" /> | Transcompile from less to css, coffeescript or typescript to javascript |
-| <img src="images/es5.png?raw=true" width="86" /> | Transcompile from next-generation javascript to today javascript |
-| <img src="images/minify.png?raw=true" width="86" /> | Minify css and javascript |
+<img src="images/transpile.png?raw=true" width="86" /> | Transcompile from less to css, coffeescript or typescript to javascript
+<img src="images/es5.png?raw=true" width="86" /> | Transcompile from next-generation javascript to today javascript
+<img src="images/minify.png?raw=true" width="86" /> | Minify css and javascript
 
 ### Provide various controllers
 
