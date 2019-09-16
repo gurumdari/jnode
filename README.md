@@ -11,46 +11,30 @@ Jnode Framework
 
 ### Transcompile
 
-<table align="center">
+<table>
 	<tbody>
 		<tr>
-			<td style="border: none;"><img src="images/transpile.png?raw=true" width="86" /></td>
-			<td style="border: none;">Transcompile from less to css, coffeescript or typescript to javascript</td>
+			<td><img src="images/transpile.png?raw=true" width="86" /></td>
+			<td>Transcompile from less to css, coffeescript or typescript to javascript</td>
 		</tr>
 		<tr>
-			<td style="border: none;"><img src="images/es5.png?raw=true" width="86" /></td>
-			<td style="border: none;">Transcompile from next-generation javascript to today javascript</td>
+			<td><img src="images/es5.png?raw=true" width="86" /></td>
+			<td>Transcompile from next-generation javascript to today javascript</td>
 		</tr>
 		<tr>
-			<td style="border: none;"><img src="images/minify.png?raw=true" width="86" /></td>
-			<td style="border: none;">Minify css and javascript</td>
+			<td><img src="images/minify.png?raw=true" width="86" /></td>
+			<td>Minify css and javascript</td>
 		</tr>
 	</tbody>
 </table>
 
 ### Provide various controllers
 
-<table style="width: 100%; min-height: 120px; border: 10px rgba(219,104,35,0.5) solid; border-collapse: separate; border-radius: 10px; border-spacing: 0;">
-	<tbody>
-		<tr>
-			<td style="border: none; background: url(images/joycon.png) no-repeat center;
-    background-size: 100px 200px; width: 100px; opacity: 0.5; padding: 0;"></td>
-			<td style="border: none;">contentframe, dataframe, datasheet, editor, grid, loading, monav, popup, prompt, slider, tree, win, winup</td>
-		</tr>
-	</tbody>
-</table>
+contentframe, dataframe, datasheet, editor, grid, loading, monav, popup, prompt, slider, tree, win, winup
 
 ### Provide utility modules
 
-<table style="width: 100%; min-height: 120px; border: 10px rgba(219,104,35,0.5) solid; border-collapse: separate; border-radius: 10px; border-spacing: 0;">
-	<tbody>
-		<tr>
-			<td style="border: none; background: url(images/tools.png) no-repeat center;
-    background-size: 100px 200px; width: 100px; opacity: 0.5; padding: 0;"></td>
-			<td style="border: none;">base64, date, htmlcode, matrix, tap, unicode, utf8</td>
-		</tr>
-	</tbody>
-</table>
+base64, date, htmlcode, matrix, tap, unicode, utf8
 
 ### Support theme (eye-protect, light, dark)
 
