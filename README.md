@@ -1,30 +1,71 @@
 Jnode Framework
 ======
-Jnode Framework is a node based front-end development framework. You can partly develop your web application using HTML element nodes and JavaScript hierarchical object nodes based on the functions. In case of structured development of templates involving HTML, occasionally you can develop templates separately classified according to those features. Because when responding a client request, the web application engine generates a whole template file using its include function, divided source codes are simply combined and sent to the network as a whole template inefficiently. But this framework calls nodes and theirs subordinate components like templates, JavaScript and CSS files by actual necessity for rendering.
 
-![Alt Jnode Framework architecutre](images/jnode_architecture.png?raw=true "Jnode Framework architecutre")
+### Support SPA (Single Page Application)
 
-This is a list of benefits when you use this framework:
+<p align="center"><img src="images/spa.png?raw=true" width="820" /></p>
 
-> This is a thin framework that can be helpful for the developers who feel tired with heavy frameworks.
+### Provide front-end template engines
 
-> Also using this framework, you can be followed with HTML5 recommendation, not to be pretended to do.
+<p align="center"><img src="images/template_engine.png?raw=true" width="619" /></p>
 
-> With this framework, you can add-on various template engines.
+### Transcompile
 
-> It gives an optimized way to separate JavaScript and CSS from template files.
+<table align="center">
+	<tbody>
+		<tr>
+			<td style="border: none;"><img src="images/transpile.png?raw=true" width="86" /></td>
+			<td style="border: none;">Transcompile from less to css, coffeescript or typescript to javascript</td>
+		</tr>
+		<tr>
+			<td style="border: none;"><img src="images/es5.png?raw=true" width="86" /></td>
+			<td style="border: none;">Transcompile from next-generation javascript to today javascript</td>
+		</tr>
+		<tr>
+			<td style="border: none;"><img src="images/minify.png?raw=true" width="86" /></td>
+			<td style="border: none;">Minify css and javascript</td>
+		</tr>
+	</tbody>
+</table>
 
-> There are some libraries named as HTML Controller, JavaScript Module that can help your development easily.
+### Provide various controllers
 
-> You can bind back-end data to the front-end through +back-end additional modules for JEE and PHP.
+<table style="width: 100%; min-height: 120px; border: 10px rgba(219,104,35,0.5) solid; border-collapse: separate; border-radius: 10px; border-spacing: 0;">
+	<tbody>
+		<tr>
+			<td style="border: none; background: url(images/joycon.png) no-repeat center;
+    background-size: 100px 200px; width: 100px; opacity: 0.5; padding: 0;"></td>
+			<td style="border: none;">contentframe, dataframe, datasheet, editor, grid, loading, monav, popup, prompt, slider, tree, win, winup</td>
+		</tr>
+	</tbody>
+</table>
+
+### Provide utility modules
+
+<table style="width: 100%; min-height: 120px; border: 10px rgba(219,104,35,0.5) solid; border-collapse: separate; border-radius: 10px; border-spacing: 0;">
+	<tbody>
+		<tr>
+			<td style="border: none; background: url(images/tools.png) no-repeat center;
+    background-size: 100px 200px; width: 100px; opacity: 0.5; padding: 0;"></td>
+			<td style="border: none;">base64, date, htmlcode, matrix, tap, unicode, utf8</td>
+		</tr>
+	</tbody>
+</table>
+
+### Support theme (eye-protect, light, dark)
+
+<p align="center"><img src="images/theme.png?raw=true" width="820" /></p>
+
+### Support back-end additional modules
+
+<p align="center"><img src="images/jakartaee.png?raw=true" width="212" /><br>+JEE Jnode module</p>
+
+<p align="center"><img src="images/php.png?raw=true" width="212" /><br>+PHP Jnode module</p>
 
 ### Guide
 To know more details, you can visit the official Jnode Framework site below:
 
 [https://jnodeframework.com](https://jnodeframework.com/)
-
-### Support Environment
-This framework supports developing applications that run in client web browsers such as Safari, Chrome, Opera, Firefox, Edge, Internet Explorer that support HTML5. It is front-end development framework, but also gives additional modules for JEE and PHP that are popular for back-end development environment. Through this feature, you can manage front-end template files at back-end side, and bind back-end data to the front-end. Simply, this framework supports JEE Servlet 3.0 and PHP 7.0 higher. If you want to use this framework under the environment, you can use supported source codes for direct implementation.
 
 ### Donation
 Jnode Framework is a free software. If you use this framework, and take some benefits, please donate for this framework. Through your donation, this framework will be better. Also, I hope to see more free software and donation culture.
