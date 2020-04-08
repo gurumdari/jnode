@@ -42,7 +42,7 @@ base64, date, htmlcode, matrix, tap, unicode, utf8
 
 ### Support back-end additional modules
 
-<p align="center"><img src="images/jakartaee.png?raw=true" width="212" /><br>+JEE Jnode module</p>
+<p align="center"><img src="images/javaee.png?raw=true" width="212" /><br>+JEE Jnode module</p>
 
 <p align="center"><img src="images/php.png?raw=true" width="212" /><br>+PHP Jnode module</p>
 
